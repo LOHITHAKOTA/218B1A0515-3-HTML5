@@ -1,0 +1,33 @@
+nav{
+    background-color:red;
+    color:white;
+    padding:10px;
+}
+nav ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+nav ul li{
+    display:inline;
+    margin-right:20px;
+}
+nav ul a{
+    color:rgb(255, 255, 255);
+    text-decoration:none;
+}
+nav ul a:hover{
+    text-decoration:underline;
+}
+section{
+    padding:30px;
+}
+footer{
+    background-color:#2858de;
+    color:#fff;
+    text-align:center;
+    padding:10px,0;
+}
+body{
+    color:blueviolet;
+}

@@ -1,0 +1,30 @@
+body,h1,p,h2,ul,li{
+    margin:10;
+    padding:10;
+}
+body{
+    font-family:Arial, sans-serif;
+}
+header{
+    background-color:#0d1c61;
+    color:#ffffff;
+    padding:30px;
+    text-align:center;
+}
+h1{
+    margin:5;
+}
+nav ul li{
+    list-style-type:none;
+    display:inline;
+    margin-right:30px;
+}
+a:hover{
+    color:white;
+}
+a:active{
+    color:black;
+}
+footer{
+    color:aqua;
+}
